@@ -1,4 +1,5 @@
-# my-coffee-shop  https://bogdannb34.github.io/my-coffee-shop/
+# my-coffee-shop
+# hit me -->  https://bogdannb34.github.io/my-coffee-shop/
 
 # Working on creating a professional-looking website using bootstrap without the use of custom CSS.
 
